@@ -1,0 +1,13 @@
+# LMML examples
+
+> Language Model Markup Language: a playful experiment in websites made of Markdown and media, by Miha Plohl. Not a formal standard.
+
+## Overview
+
+- [README](https://raw.githubusercontent.com/mihael/lmml-examples/main/README.md): Purpose, conventions, limitations, and contribution guidance.
+
+## Examples
+
+- [Minimal document](https://raw.githubusercontent.com/mihael/lmml-examples/main/examples/minimal/index.md): Text, media, and links.
+- [Consultant profile](https://raw.githubusercontent.com/mihael/lmml-examples/main/examples/consultant/index.md): Miha's services and contact link.
+- [Recursive comic document](https://raw.githubusercontent.com/mihael/lmml-examples/main/examples/recursive-comic/index.lmml.md): Original article, comic image, plain-text transcript, and self-reference.
